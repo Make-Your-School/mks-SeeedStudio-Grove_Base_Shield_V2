@@ -1,4 +1,3 @@
-
 ---
 title: "Grove Shield (Arduino)"
 date: "2018-08-28T23:43:51.000Z"
