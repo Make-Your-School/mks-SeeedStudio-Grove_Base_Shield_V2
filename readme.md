@@ -3,7 +3,7 @@ title: "Grove Shield (Arduino)"
 date: "2018-08-28T23:43:51.000Z"
 tags: 
   - "shield"
-coverImage: "66_grove_shield_arduino.jpg"
+coverImage: "66_grove_shield_arduino.png"
 material_number: "66"
 material_type: "shield"
 material_short_descr: "Seeed Studio Grove Base Shield v2"
