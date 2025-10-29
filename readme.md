@@ -16,9 +16,6 @@ repo_part: "Grove_Base_Shield_V2"
 product_url: "https://wiki.seeedstudio.com/Base_Shield_V2/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Base_Shield_V2.git"
 embedded_example_file: "examples/Grove_Base_Shield_V2_minimal/Grove_Base_Shield_V2_minimal.ino"
-title: 'Grove Shield (Arduino)'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
